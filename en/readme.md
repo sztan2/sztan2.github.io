@@ -72,7 +72,7 @@ oct 2021 -> avr 2024 : **DVELOPPEUR BACKEND CHEZ _BEDROCK STREAMING_**
 
 _Méthodos :_ `agile (daily, sprint planning, retros)`
 
-_Technos :_ `git`, `php8`, `phpunit` `behat`, `golang`, `docker`, `docker-compose`,  `comooser`, `aws`, `noSql`,
+_Technos :_ `git`, `php8`, `phpunit` `behat`, `golang`, `docker`, `docker-compose`,  `composer`, `aws`, `noSql`,
 `symfony`, `github actions`, `kubernetes`,`terraform`, `linux`
 
 _Exemple de réalisations :_
