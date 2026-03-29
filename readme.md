@@ -15,7 +15,7 @@ _you can go to the english version [here](/en "english version")._
 
 PARENTHESE PROFESSIONNELLE:
 &nbsp;  
-nov 2024 -> aujourd'hui : **Responsable relation adhérents et communication externe _POTAGERS DU GARON_**  
+nov 2024 -> aujourd'hui : **RESPONSABLE COMMUNICATION EXTERNE _POTAGERS DU GARON_**  
 &nbsp;  
 ![logo Potagers Du Garon](/Logo-PDG-detoures.png "Les Potagers du Garon, Atelier Chantier d'Insertion par le Maraîchage Biologique")
 
@@ -52,7 +52,7 @@ _Exemple de réalisations :_
 
 
 &nbsp;  
-oct 2021 -> avr 2024 : **DVELOPPEUR BACKEND CHEZ _BEDROCK STREAMING_**  
+oct 2021 -> avr 2024 : **DEVELOPPEUR BACKEND CHEZ _BEDROCK STREAMING_**  
 &nbsp;  
 ![logo bedrock](/bedrock.png "Bedrock Streaming, entreprise de développement logiciel créatrice de services de streaming clés en main.")
 
