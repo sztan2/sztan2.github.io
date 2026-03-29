@@ -166,8 +166,9 @@ _Exemple de réalisations :_
 
 ***
 &nbsp;  
-Et avant tout cela ? (et maintenant encore !) De nombreuses autres vies !...  
+Et avant tout cela ? (ou pendant, et maintenant encore !) De nombreuses autres vies !...  
 &nbsp;
+* trompettiste
 * vendeur / assembleur / réparateur ...
 * hotliner
 * lecteur
