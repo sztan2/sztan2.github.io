@@ -9,7 +9,7 @@ _aller à la version en français [ici](/ "version française")._
 
 > Hello, bienvenue sur mon CV.  
 > Mon but est de vous donner une idée du scope de mes compétences et intérêts.
-> Je suis ouvert à la nouveauté, comme travailler dans des projets d'applications mobiles. J'interviens dnas le cycle de vie du produit, en lien avec les équipes de dev, les utilisateur et le business.
+> Je suis ouvert à la nouveauté, comme travailler dans des projets d'applications mobiles. J'interviens dans le cycle de vie du produit, en lien avec les équipes de dev, les utilisateurs et le business.
 > Plus récemment, j'ai passé la certification  PSPO I et je prépare la PSPO II.
 > Bonne lecture :-)
 
