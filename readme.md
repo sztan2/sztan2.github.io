@@ -1,22 +1,60 @@
 _you can go to the english version [here](/en "english version")._
 
 ## Stanislas Paliard
-### Développeur
+### Product Owner
 
     Dernière actualisation: 2026-03-29T03:51:23+02
 
+![logo PSPOI](/pspoI.png "PSPO I, premier niveau de certification Professionnal Scrum Product Owner, https://www.scrum.org")
+
 > Hello, bienvenue sur mon CV.  
 > Mon but est de vous donner une idée du scope de mes compétences et intérêts.
-> Je suis ouvert à la nouveauté, comme travailler dans des projets d'applications mobiles
-> J'interviens tant dans la phase de recueil des besoins, de spécification, de release, et de suivi.
-> Plus récemment j'ai passé la certification  PSPO I et je prépare la PSPO II.
+> Je suis ouvert à la nouveauté, comme travailler dans des projets d'applications mobiles. J'interviens dnas le cycle de vie du produit, en lien avec les équipes de dev, les utilisateur et le business.
+> Plus récemment, j'ai passé la certification  PSPO I et je prépare la PSPO II.
 > Bonne lecture :-)
+
+PARENTHESE PROFESSIONNELLE:
+&nbsp;  
+nov 2024 -> aujourd'hui : **Responsable relation adhérents et communication externe _POTAGERS DU GARON_**  
+&nbsp;  
+![logo Potagers Du Garon](/Logo-PDG-detoures.png "Les Potagers du Garon, Atelier Chantier d'Insertion par le Maraîchage Biologique")
+
+* accueil et conseil
+* communications (mailings, communautés whatsapp, réseaux sociaux, affichage)
+* développement de la gamme de produits complémentaires
+* organisation des tournées
+* prospection d'adhérents
+* partenariat avec d'autres associations
+* réalisation de supports de publicité et de communication
+* mobilisation de bénévoles
+* recherche de mécénat
+
+>**Domaines :**
+>* Economie Sociale et Solidaire
+>* Associations
+>* Alimentation pour tous
+>* Animation de réseau
+>* Commerce
+>* Partenariat
+>* Organisation d'évènements
+>* Gestion, suivi, animation de réunion, tenue d'indicateurs
+
+_Compétences :_ `excellentes capacités de communication`, `Qualités personnelles affirmées`, `rigueur`, `organisation`, `maîtrise des méthodes agiles`
+
+
+_Exemple de réalisations :_
+* coordination de la réalisation d'une brochure anniversaire
+* organisation d'un évènement rassemblant plusieurs partenaires et se déroulant sur une journée, accueillant plus de 400 personnes. Jeux, vente, concert, restauration, activités éducatives, arts plastiques
+* animation de réunions
+* organisation et optimisation de tournées de livraisons
+* gestion administrative
+* conception de kits de communication
 
 
 &nbsp;  
 oct 2021 -> avr 2024 : **DVELOPPEUR BACKEND CHEZ _BEDROCK STREAMING_**  
 &nbsp;  
-![logo orange](/bedrock.png "Orange, société française de télécommunications")
+![logo bedrock](/bedrock.png "Bedrock Streaming, entreprise de développement logiciel créatrice de services de streaming clés en main.")
 
 * implémentation/mise à jours d'adservers
 * maintenance projets (packages composer, version de php)
