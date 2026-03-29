@@ -28,6 +28,8 @@ nov 2024 -> aujourd'hui : **Responsable relation adhérents et communication ext
 * réalisation de supports de publicité et de communication
 * mobilisation de bénévoles
 * recherche de mécénat
+* gestion administrative
+* tenue d'indicateurs
 
 >**Domaines :**
 >* Economie Sociale et Solidaire
@@ -35,20 +37,18 @@ nov 2024 -> aujourd'hui : **Responsable relation adhérents et communication ext
 >* Alimentation pour tous
 >* Animation de réseau
 >* Commerce
->* Partenariat
+>* Partenariats
 >* Organisation d'évènements
->* Gestion, suivi, animation de réunion, tenue d'indicateurs
 
 _Compétences :_ `excellentes capacités de communication`, `Qualités personnelles affirmées`, `rigueur`, `organisation`, `maîtrise des méthodes agiles`
 
 
 _Exemple de réalisations :_
-* coordination de la réalisation d'une brochure anniversaire
-* organisation d'un évènement rassemblant plusieurs partenaires et se déroulant sur une journée, accueillant plus de 400 personnes. Jeux, vente, concert, restauration, activités éducatives, arts plastiques
-* animation de réunions
-* organisation et optimisation de tournées de livraisons
-* gestion administrative
+* coordination de la réalisation d'une brochure anniversaire 30 ans
+* organisation d'un évènement rassemblant plusieurs partenaires et se déroulant sur une journée, accueillant plus de 400 personnes. Jeux, vente, concert, restauration, activités éducatives, arts plastiques, la fête des Cultures
+* organisation de marchés de Noël
 * conception de kits de communication
+* participation au festival MIAM
 
 
 &nbsp;  

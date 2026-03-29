@@ -1,21 +1,90 @@
 _aller à la version en français [ici](/ "version française")._
 
 ## Stanislas Paliard
-### Développeur
+### Product Owner
 
-    Dernière actualisation: 2021-05-11T08:07:54.5219739Z
+    Dernière actualisation: 2026-03-29T03:51:23+02
+
+![logo PSPOI](/pspoI.png "PSPO I, premier niveau de certification Professionnal Scrum Product Owner, https://www.scrum.org")
 
 > Hello, bienvenue sur mon CV.  
 > Mon but est de vous donner une idée du scope de mes compétences et intérêts.
-> Je suis ouvert à la nouveauté, comme le développement d'applications mobiles 🙄.
-> J'interviens tant dans la phase de spécification que dans celle de développement.
+> Je suis ouvert à la nouveauté, comme travailler dans des projets d'applications mobiles. J'interviens dnas le cycle de vie du produit, en lien avec les équipes de dev, les utilisateur et le business.
+> Plus récemment, j'ai passé la certification  PSPO I et je prépare la PSPO II.
 > Bonne lecture :-)
 
 &nbsp;  
 **WOW ! Seems I havn't translated it yet 🤭 !**
 
+PARENTHESE PROFESSIONNELLE:
 &nbsp;  
-nov 2019 -> aujourd'hui : **CONCEPTEUR DÉVELOPPEUR CHEZ _ORANGE_**  
+nov 2024 -> aujourd'hui : **Responsable relation adhérents et communication externe _POTAGERS DU GARON_**  
+&nbsp;  
+![logo Potagers Du Garon](/Logo-PDG-detoures.png "Les Potagers du Garon, Atelier Chantier d'Insertion par le Maraîchage Biologique")
+
+* accueil et conseil
+* communications (mailings, communautés whatsapp, réseaux sociaux, affichage)
+* développement de la gamme de produits complémentaires
+* organisation des tournées
+* prospection d'adhérents
+* partenariat avec d'autres associations
+* réalisation de supports de publicité et de communication
+* mobilisation de bénévoles
+* recherche de mécénat
+* gestion administrative
+* tenue d'indicateurs
+
+>**Domaines :**
+>* Economie Sociale et Solidaire
+>* Associations
+>* Alimentation pour tous
+>* Animation de réseau
+>* Commerce
+>* Partenariats
+>* Organisation d'évènements
+
+_Compétences :_ `excellentes capacités de communication`, `Qualités personnelles affirmées`, `rigueur`, `organisation`, `maîtrise des méthodes agiles`
+
+
+_Exemple de réalisations :_
+* coordination de la réalisation d'une brochure anniversaire 30 ans
+* organisation d'un évènement rassemblant plusieurs partenaires et se déroulant sur une journée, accueillant plus de 400 personnes. Jeux, vente, concert, restauration, activités éducatives, arts plastiques, la fête des Cultures
+* organisation de marchés de Noël
+* conception de kits de communication
+* participation au festival MIAM
+
+
+&nbsp;  
+oct 2021 -> avr 2024 : **DVELOPPEUR BACKEND CHEZ _BEDROCK STREAMING_**  
+&nbsp;  
+![logo bedrock](/bedrock.png "Bedrock Streaming, entreprise de développement logiciel créatrice de services de streaming clés en main.")
+
+* implémentation/mise à jours d'adservers
+* maintenance projets (packages composer, version de php)
+* automatisations
+* migrations infrastructure
+* monitoring
+
+>**Domaines :**
+>* Product Line Ads
+>* AdServers
+>* Ad Gateways
+
+_Méthodos :_ `agile (daily, sprint planning, retros)`
+
+_Technos :_ `git`, `php8`, `phpunit` `behat`, `golang`, `docker`, `docker-compose`,  `comooser`, `aws`, `noSql`,
+`symfony`, `github actions`, `kubernetes`,`terraform`, `linux`
+
+_Exemple de réalisations :_
+* terraforming élément d'infra (dynamoDb, sqs)
+* mise à jour régulière des projets (packages composer, versions de php, images de conteneurs)
+* implémentation / modification d'adServer
+* refactorisation
+* rédaction de tests unitaires et fonctionnels
+* création de jobs Kubernetes de synchronisations
+
+&nbsp;  
+nov 2019 -> oct 2021 : **CONCEPTEUR DÉVELOPPEUR CHEZ _ORANGE_**  
 &nbsp;  
 ![logo orange](/239px-Orange_logo.svg.png "Orange, société française de télécommunications")
 
@@ -38,7 +107,7 @@ _Exemple de réalisations :_
 * migration svn->git
 * migration php5.3->php7.2
 * installation, paramétrage et sécurisation d'un serveur MariaDB 10.3.13 en mode IaaS (redhat)
-* réécriture d'une application legacy -> zend + symfony  
+* réécriture d'une application legacy -> zend + symfony
 * développement d'un module de recherche dans l'annuaire interne
 * synchronisation de fichiers avec des partenaires, intégration en RAW insert SQL
 * conception et développement d'un système de diffusions d'évènements par mail et SMS
@@ -113,4 +182,3 @@ Et avant tout cela ? (et maintenant encore !) De nombreuses autres vies !...
 * ...
 
 ![portrait Stan](/stan.png "moi")  
-
