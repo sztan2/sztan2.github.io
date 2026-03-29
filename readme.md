@@ -3,16 +3,47 @@ _you can go to the english version [here](/en "english version")._
 ## Stanislas Paliard
 ### Développeur
 
-    Dernière actualisation: 2021-05-11T08:07:54.5219739Z
+    Dernière actualisation: 2026-03-29T03:51:23+02
 
 > Hello, bienvenue sur mon CV.  
 > Mon but est de vous donner une idée du scope de mes compétences et intérêts.
-> Je suis ouvert à la nouveauté, comme le développement d'applications mobiles 🙄.
-> J'interviens tant dans la phase de spécification que dans celle de développement.
+> Je suis ouvert à la nouveauté, comme travailler dans des projets d'applications mobiles
+> J'interviens tant dans la phase de recueil des besoins, de spécification, de release, et de suivi.
+> Plus récemment j'ai passé la certification  PSPO I et je prépare la PSPO II.
 > Bonne lecture :-)
 
+
 &nbsp;  
-nov 2019 -> aujourd'hui : **CONCEPTEUR DÉVELOPPEUR CHEZ _ORANGE_**  
+oct 2021 -> avr 2024 : **DVELOPPEUR BACKEND CHEZ _BEDROCK STREAMING_**  
+&nbsp;  
+![logo orange](/bedrock.png "Orange, société française de télécommunications")
+
+* implémentation/mise à jours d'adservers
+* maintenance projets (packages composer, version de php)
+* automatisations
+* migrations infrastructure
+* monitoring
+
+>**Domaines :**
+>* Product Line Ads
+>* AdServers
+>* Ad Gateways
+
+_Méthodos :_ `agile (daily, sprint planning, retros)`
+
+_Technos :_ `git`, `php8`, `phpunit` `behat`, `golang`, `docker`, `docker-compose`,  `comooser`, `aws`, `noSql`,
+`symfony`, `github actions`, `kubernetes`,`terraform`, `linux`
+
+_Exemple de réalisations :_
+* terraforming élément d'infra (dynamoDb, sqs)
+* mise à jour régulière des projets (packages composer, versions de php, images de conteneurs)
+* implémentation / modification d'adServer
+* refactorisation
+* rédaction de tests unitaires et fonctionnels
+* création de jobs Kubernetes de synchronisations
+
+&nbsp;  
+nov 2019 -> oct 2021 : **CONCEPTEUR DÉVELOPPEUR CHEZ _ORANGE_**  
 &nbsp;  
 ![logo orange](/239px-Orange_logo.svg.png "Orange, société française de télécommunications")
 
