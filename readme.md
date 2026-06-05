@@ -1,9 +1,10 @@
 _you can go to the english version [here](/en "english version")._
 
-## Stanislas Paliard
+
+## Stanislas Paliard - [https://sztan2.github.io](https://sztan2.github.io)
 ### Product Owner
 
-    Dernière actualisation: 2026-03-29T03:51:23+02
+    Dernière actualisation: 2026-06-05T14:16:29+02:00 
 
 ![logo PSPOI](/pspoI.png "PSPO I, premier niveau de certification Professionnal Scrum Product Owner, https://www.scrum.org")
 
@@ -12,44 +13,6 @@ _you can go to the english version [here](/en "english version")._
 > Je suis ouvert à la nouveauté, comme travailler dans des projets d'applications mobiles. J'interviens dans le cycle de vie du produit, en lien avec les équipes de dev, les utilisateurs et le business.
 > Plus récemment, j'ai passé la certification  PSPO I et je prépare la PSPO II.
 > Bonne lecture :-)
-
-PARENTHESE PROFESSIONNELLE:
-&nbsp;  
-nov 2024 -> aujourd'hui : **RESPONSABLE COMMUNICATION EXTERNE _POTAGERS DU GARON_**  
-&nbsp;  
-![logo Potagers Du Garon](/Logo-PDG-detoures.png "Les Potagers du Garon, Atelier Chantier d'Insertion par le Maraîchage Biologique")
-
-* accueil et conseil
-* communications (mailings, communautés whatsapp, réseaux sociaux, affichage)
-* développement de la gamme de produits complémentaires
-* organisation des tournées
-* prospection d'adhérents
-* partenariat avec d'autres associations
-* réalisation de supports de publicité et de communication
-* mobilisation de bénévoles
-* recherche de mécénat
-* gestion administrative
-* tenue d'indicateurs
-
->**Domaines :**
->* Economie Sociale et Solidaire
->* Associations
->* Alimentation pour tous
->* Animation de réseau
->* Commerce
->* Partenariats
->* Organisation d'évènements
-
-_Compétences :_ `excellentes capacités de communication`, `Qualités personnelles affirmées`, `rigueur`, `organisation`, `maîtrise des méthodes agiles`
-
-
-_Exemple de réalisations :_
-* coordination de la réalisation d'une brochure anniversaire 30 ans
-* organisation d'un évènement rassemblant plusieurs partenaires et se déroulant sur une journée, accueillant plus de 400 personnes. Jeux, vente, concert, restauration, activités éducatives, arts plastiques, la fête des Cultures
-* organisation de marchés de Noël
-* conception de kits de communication
-* participation au festival MIAM
-
 
 &nbsp;  
 oct 2021 -> avr 2024 : **DEVELOPPEUR BACKEND CHEZ _BEDROCK STREAMING_**  
@@ -160,6 +123,44 @@ _Exemple de réalisations :_
 * mise à jour du code de génération EDI pour intégrer des nouveautés réglementaires de la norme
 * développements spécifiques, personnalisations d'écrans, ...
 * tracking et correction de bugs
+
+&nbsp;  
+PARENTHESE PROFESSIONNELLE:
+&nbsp;  
+nov 2024 -> aujourd'hui : **RESPONSABLE COMMUNICATION EXTERNE _POTAGERS DU GARON_**  
+&nbsp;  
+![logo Potagers Du Garon](/Logo-PDG-detoures.png "Les Potagers du Garon, Atelier Chantier d'Insertion par le Maraîchage Biologique")
+
+* accueil et conseil (250 adhérents)
+* communication externe, mailing commercial hebdomadaire, publications sur les réseaux sociaux (meta), affichage, PLV, documentation
+* développement de la gamme de produits complémentaires (produits de saison), prospection, achat
+* calcul des marges, conditionnement, gestion des stocks
+* gestion des abonnés, organisation des tournées, prospection d'adhérents, mise à jour des offres
+* contrôle des préparations hebdomadaires
+* développement de partenariat avec d'autres associations: organisation d'évènements ludiques et pédagogique
+* mobiilsation de bénévoles sur des chantiers de maraîchage (semis, récoltes, participation aux tournées, évènements)
+* mise en place d'un plan de communication multicanal et multithème
+* recherche de mécènes, appels aux dons
+
+
+>**Domaines :**
+>* Economie Sociale et Solidaire
+>* Associations
+>* Alimentation pour tous
+>* Animation de réseau
+>* Commerce
+>* Partenariats
+>* Organisation d'évènements
+
+_Compétences :_ `excellentes capacités de communication`, `Qualités personnelles affirmées`, `rigueur`, `organisation`, `maîtrise des méthodes agiles`
+
+
+_Exemple de réalisations :_
+* coordination de la réalisation d'une brochure anniversaire 30 ans de 64 pages avec articles, photos, graphiques et témoignages.
+* organisation de la "Fête des Cultures" évèmenent ludique, pédagoqique et festif multi-acteurs. 
+* organisation de marchés de Noël
+* conception de kits de communication pour les forums et autres évènements
+* tenue de marché
 
 ***
 &nbsp;  

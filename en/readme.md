@@ -22,17 +22,15 @@ nov 2024 -> aujourd'hui : **RESPONSABLE COMMUNICATION EXTERNE _POTAGERS DU GARON
 &nbsp;  
 ![logo Potagers Du Garon](/Logo-PDG-detoures.png "Les Potagers du Garon, Atelier Chantier d'Insertion par le Maraîchage Biologique")
 
-* accueil et conseil
-* communications (mailings, communautés whatsapp, réseaux sociaux, affichage)
-* développement de la gamme de produits complémentaires
-* organisation des tournées
-* prospection d'adhérents
-* partenariat avec d'autres associations
-* réalisation de supports de publicité et de communication
-* mobilisation de bénévoles
-* recherche de mécénat
-* gestion administrative
-* tenue d'indicateurs
+* accueil et conseil (250 adhérents)
+* communication externe, mailing commercial hebdomadaire, publications sur les réseaux sociaux (meta), affichage, PLV, documentation
+* développement de la gamme de produits complémentaires (produits de saison), prospection, achat
+* calcul des marges, conditionnement, gestion des stocks
+* gestion des abonnés, organisation des tournées, prospection d'adhérents, mise à jour des offres
+* contrôle des préparations hebdomadaires
+* développement de partenariat avec d'autres associations: organisation d'évènements ludiques et pédagogique
+* recherche de mécènes, appels aux dons
+
 
 >**Domaines :**
 >* Economie Sociale et Solidaire
@@ -47,11 +45,11 @@ _Compétences :_ `excellentes capacités de communication`, `Qualités personnel
 
 
 _Exemple de réalisations :_
-* coordination de la réalisation d'une brochure anniversaire 30 ans
-* organisation d'un évènement rassemblant plusieurs partenaires et se déroulant sur une journée, accueillant plus de 400 personnes. Jeux, vente, concert, restauration, activités éducatives, arts plastiques, la fête des Cultures
+* coordination de la réalisation d'une brochure anniversaire 30 ans de 64 pages avec articles, photos, graphiques et témoignages.
+* organisation de la "Fête des Cultures" évèmenent ludique, pédagoqique et festif multi-acteurs. 
 * organisation de marchés de Noël
-* conception de kits de communication
-* participation au festival MIAM
+* conception de kits de communication pour les forums et autres évènements
+* tenue de marché
 
 
 &nbsp;  
@@ -183,3 +181,4 @@ Et avant tout cela ? (ou pendant, et maintenant encore !) De nombreuses autres v
 * ...
 
 ![portrait Stan](/stan.png "moi")  
+
