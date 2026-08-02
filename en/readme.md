@@ -1,7 +1,7 @@
 _aller à la version en français [ici](/ "version française")._
 
 ## Stanislas Paliard
-### Product Owner
+### UX Designer
 
     Dernière actualisation: 2026-03-29T03:51:23+02
 

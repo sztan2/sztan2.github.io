@@ -2,7 +2,7 @@ _you can go to the english version [here](/en "english version")._
 
 
 ## Stanislas Paliard - [https://sztan2.github.io](https://sztan2.github.io)
-### Product Owner
+### UX Designer
 
     Dernière actualisation: 2026-06-05T14:16:29+02:00 
 
