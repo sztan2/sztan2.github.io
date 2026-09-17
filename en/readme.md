@@ -1,184 +1,182 @@
-_aller à la version en français [ici](/ "version française")._
+*_version française disponible [ici](../ "version française")._*
 
-## Stanislas Paliard
+
+## Stanislas Paliard - [https://sztan2.github.io](https://sztan2.github.io)
 ### UX Designer
 
-    Dernière actualisation: 2026-03-29T03:51:23+02
+    Last updated: 2026-06-05T14:16:29+02:00 
 
-![logo PSPOI](/pspoI.png "PSPO I, premier niveau de certification Professionnal Scrum Product Owner, https://www.scrum.org")
+![logo PSPOI](../pspoI.png "PSPO I, first level of Professional Scrum Product Owner certification, [https://www.scrum.org](https://www.scrum.org)")
 
-> Hello, bienvenue sur mon CV.  
-> Mon but est de vous donner une idée du scope de mes compétences et intérêts.
-> Je suis ouvert à la nouveauté, comme travailler dans des projets d'applications mobiles. J'interviens dans le cycle de vie du produit, en lien avec les équipes de dev, les utilisateurs et le business.
-> Plus récemment, j'ai passé la certification  PSPO I et je prépare la PSPO II.
-> Bonne lecture :-)
-
-&nbsp;  
-**WOW ! Seems I havn't translated it yet 🤭 !**
-
-PARENTHESE PROFESSIONNELLE:
-&nbsp;  
-nov 2024 -> aujourd'hui : **RESPONSABLE COMMUNICATION EXTERNE _POTAGERS DU GARON_**  
-&nbsp;  
-![logo Potagers Du Garon](/Logo-PDG-detoures.png "Les Potagers du Garon, Atelier Chantier d'Insertion par le Maraîchage Biologique")
-
-* accueil et conseil (250 adhérents)
-* communication externe, mailing commercial hebdomadaire, publications sur les réseaux sociaux (meta), affichage, PLV, documentation
-* développement de la gamme de produits complémentaires (produits de saison), prospection, achat
-* calcul des marges, conditionnement, gestion des stocks
-* gestion des abonnés, organisation des tournées, prospection d'adhérents, mise à jour des offres
-* contrôle des préparations hebdomadaires
-* développement de partenariat avec d'autres associations: organisation d'évènements ludiques et pédagogique
-* recherche de mécènes, appels aux dons
-
-
->**Domaines :**
->* Economie Sociale et Solidaire
->* Associations
->* Alimentation pour tous
->* Animation de réseau
->* Commerce
->* Partenariats
->* Organisation d'évènements
-
-_Compétences :_ `excellentes capacités de communication`, `Qualités personnelles affirmées`, `rigueur`, `organisation`, `maîtrise des méthodes agiles`
-
-
-_Exemple de réalisations :_
-* coordination de la réalisation d'une brochure anniversaire 30 ans de 64 pages avec articles, photos, graphiques et témoignages.
-* organisation de la "Fête des Cultures" évèmenent ludique, pédagoqique et festif multi-acteurs. 
-* organisation de marchés de Noël
-* conception de kits de communication pour les forums et autres évènements
-* tenue de marché
-
+> Hello, welcome to my resume.  
+> My goal is to give you an idea of the scope of my skills and interests.
+> I am open to new opportunities, such as working on mobile application projects. I contribute to the product lifecycle, working closely with development teams, users, and the business.
+> More recently, I obtained the PSPO I certification and am preparing for PSPO II.
+> Enjoy the reading :-)
 
 &nbsp;  
-oct 2021 -> avr 2024 : **DEVELOPPEUR BACKEND CHEZ _BEDROCK STREAMING_**  
+oct 2021 -> apr 2024 : **BACKEND DEVELOPER AT _BEDROCK STREAMING_**  
 &nbsp;  
-![logo bedrock](/bedrock.png "Bedrock Streaming, entreprise de développement logiciel créatrice de services de streaming clés en main.")
+![logo bedrock](../bedrock.png "Bedrock Streaming, a software development company creating turnkey streaming services.")
 
-* implémentation/mise à jours d'adservers
-* maintenance projets (packages composer, version de php)
-* automatisations
-* migrations infrastructure
+* implementation/updates of ad servers
+* project maintenance (Composer packages, PHP versions)
+* automation
+* infrastructure migrations
 * monitoring
 
->**Domaines :**
+>**Areas:**
 >* Product Line Ads
 >* AdServers
 >* Ad Gateways
 
-_Méthodos :_ `agile (daily, sprint planning, retros)`
+_Methodologies:_* `agile (daily, sprint planning, retros)`
 
-_Technos :_ `git`, `php8`, `phpunit` `behat`, `golang`, `docker`, `docker-compose`,  `composer`, `aws`, `noSql`,
-`symfony`, `github actions`, `kubernetes`,`terraform`, `linux`
+_Technologies:_ `git`, `php8`, `phpunit` `behat`, `golang`, `docker`, `docker-compose`,  `composer`, `aws`, `noSql`,`symfony`, `github actions`, `kubernetes`,`terraform`, `linux`
 
-_Exemple de réalisations :_
-* terraforming élément d'infra (dynamoDb, sqs)
-* mise à jour régulière des projets (packages composer, versions de php, images de conteneurs)
-* implémentation / modification d'adServer
-* refactorisation
-* rédaction de tests unitaires et fonctionnels
-* création de jobs Kubernetes de synchronisations
+_Examples of achievements:_
 
-&nbsp;  
-nov 2019 -> oct 2021 : **CONCEPTEUR DÉVELOPPEUR CHEZ _ORANGE_**  
-&nbsp;  
-![logo orange](/239px-Orange_logo.svg.png "Orange, société française de télécommunications")
-
-* modernisation des process de déploiement
-* migrations php
-* rénovation d'application
-* développements web
-* développement d'APIs REST/SOAP
-* mise en place d'un socle applicatif en mode PaaS
-
->**Domaines :**
->* SI interne
->* Portails web
->* chantiers de rénovations d'application
-
-_Technos :_ `git`, `php5.3`, `php7.2`, `php7.3`, `docker`, `docker-compose`, `xml`, `MariaDB 10.3.13`, `HTML`, `CSS`, `JS`, `Bootstrap`, `JQuery`, `JQuery-UI`
-  `symfony 3`, `zend`, `oft (custom framework)`, `Jenkins`, `gitlab`, `gitlab ci/cd`, `terraform`, `cloudfoundry`, `amazon S3`, `supercronic`, `linux`
-
-_Exemple de réalisations :_
-* migration svn->git
-* migration php5.3->php7.2
-* installation, paramétrage et sécurisation d'un serveur MariaDB 10.3.13 en mode IaaS (redhat)
-* réécriture d'une application legacy -> zend + symfony
-* développement d'un module de recherche dans l'annuaire interne
-* synchronisation de fichiers avec des partenaires, intégration en RAW insert SQL
-* conception et développement d'un système de diffusions d'évènements par mail et SMS
-* administration d'une application en mode PaaS avec cloudfoundry
+* infrastructure as code for infrastructure components (DynamoDB, SQS)
+* regular project updates (Composer packages, PHP versions, container images)
+* implementation / modification of ad servers
+* refactoring
+* writing unit and functional tests
+* creation of Kubernetes synchronization jobs
 
 &nbsp;  
-jul 2017 -> oct 2019 : **INGÉNIEUR RÉALISATEUR CHEZ _MISTER AUTO_**  
+nov 2019 -> oct 2021 : **APPLICATION DEVELOPER / DESIGNER AT _ORANGE_**  
 &nbsp;  
-![logo mister-auto](/mister-auto.png "Mister Auto, entreprise française de commerce électronique spécialisée dans la vente de pièces détachées automobiles")
-* assurer l'évolution de la partie legacy du site (cohabitation de 2 socles techniques)
-* développements front/back en php pour les sites web desktop et mobile
-* développement d'APIs (fournir des données au nouveau socle)
-* contrôler la mise en recette de la partie legacy du site
+![logo orange](../239px-Orange_logo.svg.png "Orange, a French telecommunications company")
 
->**Domaines :**
+* modernization of deployment processes
+* PHP migrations
+* application modernization
+* web development
+* REST/SOAP API development
+* implementation of an application platform using a PaaS approach
+
+>**Areas:**
+>* Internal IT systems
+>* Web portals
+>* Application modernization projects
+
+_Technologies:_ `git`, `php5.3`, `php7.2`, `php7.3`, `docker`, `docker-compose`, `xml`, `MariaDB 10.3.13`, `HTML`, `CSS`, `JS`, `Bootstrap`, `JQuery`, `JQuery-UI`, `symfony 3`, `zend`, `oft (custom framework)`, `Jenkins`, `gitlab`, `gitlab ci/cd`, `terraform`, `cloudfoundry`, `amazon S3`, `supercronic`, `linux`
+
+_Examples of achievements:_
+* SVN -> Git migration
+* PHP 5.3 -> PHP 7.2 migration
+* installation, configuration, and security hardening of a MariaDB 10.3.13 server in IaaS mode (Red Hat)
+* rewriting a legacy application -> Zend + Symfony
+* development of a search module in the internal directory
+* file synchronization with partners, integration using SQL "RAW INSERTs"
+* design and development of an email and SMS event broadcasting system
+* administration of a PaaS application using Cloud Foundry
+
+&nbsp;  
+jul 2017 -> oct 2019 : **SOFTWARE ENGINEER AT _MISTER AUTO_**  
+&nbsp;  
+![logo mister-auto](../mister-auto.png "Mister Auto, a French e-commerce company specializing in the sale of automotive spare parts")
+* ensuring the evolution of the site's legacy stack (coexistence of 2 technical stacks)
+* front-end/back-end PHP development for desktop and mobile websites
+* API development (providing data to the new stack)
+* overseeing the staging of the site's legacy section
+
+>**Areas:**
 >* e-commerce
 >* SEO
 >* UX/UI
->* agilité
+>* Agile
 
-_Technos :_ `HTML`, `XML`, `CSS`, `JS`, `CodeIgniter`, `Varnish`, `JQuery`, `Mysql 5.2`, `git`, `Ubuntu`, `docker`, `bash`
+_Technologies:_ `HTML`, `XML`, `CSS`, `JS`, `CodeIgniter`, `Varnish`, `JQuery`, `Mysql 5.2`, `git`, `Ubuntu`, `docker`, `bash`
 
-_Exemple de réalisations :_
-* générateur de sitemaps paramétrables pour les 22 pays du pure player
-* création d'une API fournisseur : bannières promotionnelles en temps réel
-* évolutions sur les comptes professionnels (remise à plat des topologies, gestion d'opérations dédiées)
-* évolutions sur l'interface backoffice
-* refonte CSS du checkout
-* ajout d'un nouveau PSP
-* refonte du sélecteur "chaînes à neige" avec ajout de la compatibilité véhicule
-* implémentation de market places
-* externalisation d'une partie du customercare
-* mise en place d'un serveur de recette dédié à la partie legacy du site
-* développement de scripts (bash, git, ssh...) pour automatiser les mises en recette
+_Examples of achievements:_
+* configurable sitemap generator for the pure player's 22 countries
+* creation of a supplier API: real-time promotional banners
+* enhancements to professional accounts (redesign of topologies, management of dedicated operations)
+* enhancements to the back-office interface
+* CSS redesign of the checkout
+* addition of a new PSP
+* redesign of the "snow chains" selector with vehicle compatibility support
+* implementation of marketplaces
+* outsourcing of part of customer care
+* setup of a dedicated staging server for the site's legacy section
+* development of scripts (bash, git, ssh...) to automate staging deployments
 
 &nbsp;  
-apr 2012 -> sep 2015 : **DÉVELOPPEUR SQL/SQR CHEZ AKANEA**  
+apr 2012 -> sep 2015 : **SQL/SQR DEVELOPER AT AKANEA**  
 &nbsp;  
-![logo akanea](/akanea.png "Editeur de logiciels spécialisés pour la supply-chain")
-* développement Oracle PL/SQL
-* développements sqr
-* analyse fonctionnelle et technique
-* étude, développement, tests et recette
+![logo akanea](../akanea.png "Software publisher specializing in supply chain solutions")
+* Oracle PL/SQL development
+* SQR development
+* functional and technical analysis
+* analysis, development, testing, and staging
 
->**Domaines :**
->* Transport et logistique
->* Progiciels Client/Serveur
+>**Areas:**
+>* Transportation and logistics
+>* Client/server software
 >* EDI
 
-_Technos_ : `sqr`, `Oracle` `PL/SQL`, `ORACLE FORMS`, `DOS`, `Windows Server`, `linux`, `ftp`
+_Technologies_ : `sqr`, `Oracle` `PL/SQL`, `ORACLE FORMS`, `DOS`, `Windows Server`, `linux`, `ftp`
 
-_Exemple de réalisations :_
-* mise à jour du code de génération EDI pour intégrer des nouveautés réglementaires de la norme
-* développements spécifiques, personnalisations d'écrans, ...
-* tracking et correction de bugs
+_Examples of achievements:_
+* updating EDI generation code to incorporate regulatory changes to the standard
+* custom development, screen customization, ...
+* bug tracking and fixing
+
+&nbsp;  
+PROFESSIONAL CAREER PARENTHESIS:
+&nbsp;  
+nov 2024 -> present : **EXTERNAL COMMUNICATIONS MANAGER AT _POTAGERS DU GARON_**  
+&nbsp;  
+![logo Potagers Du Garon](../Logo-PDG-detoures.png "Les Potagers du Garon, a work-integration social enterprise focused on organic market gardening")
+
+* welcoming and advising members (250 members)
+* external communications, weekly commercial mailing, social media posts (Meta), signage, point-of-sale materials, documentation
+* development of the complementary product range (seasonal products), prospecting, purchasing
+* margin calculations, packaging, inventory management
+* subscriber management, route planning, member prospecting, offer updates
+* quality control of weekly preparations
+* developing partnerships with other associations: organizing fun and educational events
+* mobilizing volunteers for market gardening activities (sowing, harvesting, participating in delivery routes, events)
+* implementation of a multichannel, multi-topic communications plan
+* seeking sponsors, fundraising campaigns
+
+
+>**Areas:**
+>* Social and Solidarity Economy
+>* Nonprofit organizations
+>* Food access for all
+>* Community network engagement
+>* Commerce
+>* Partnerships
+>* Event organization
+
+_Skills:_ `excellent communication skills`, `strong interpersonal skills`, `attention to detail`, `organization`, `proficiency in Agile methods`
+
+
+_Examples of achievements:_
+* coordinating the production of a 64-page 30th anniversary brochure featuring articles, photos, graphics, and testimonials.
+* organizing the "Fête des Cultures", a fun, educational, and festive multi-stakeholder event. 
+* organizing Christmas markets
+* designing communication kits for forums and other events
+* running market stalls
 
 ***
 &nbsp;  
-Et avant tout cela ? (ou pendant, et maintenant encore !) De nombreuses autres vies !...  
+And before all that? (Or alongside it, and still today!) Many other lives!...
 &nbsp;
-* trompettiste
-* vendeur / assembleur / réparateur ...
-* hotliner
-* lecteur
-* consommateur
-* visionneur
-* nageur
-* débroussailleur
-* ~~livreur~~ ~~mangeur~~ livreur de pizzas
+* trumpet player
+* salesperson / assembler / repair technician ...
+* helpline operator
+* reader
+* consumer
+* viewer
+* swimmer
+* bush cutter
+* ~~delivery driver~~ ~~eater~~ pizza delivery driver
 * geek
-* amoureux de la nature
-* vélomane
+* nature lover
+* cycling enthusiast
 * ...
 
-![portrait Stan](/stan.png "moi")  
-
+![portrait Stan](../stan.png "me")   

@@ -1,4 +1,4 @@
-_you can go to the english version [here](/en "english version")._
+_you can go to the english version [here](./en "english version")._
 
 
 ## Stanislas Paliard - [https://sztan2.github.io](https://sztan2.github.io)
@@ -6,7 +6,7 @@ _you can go to the english version [here](/en "english version")._
 
     Dernière actualisation: 2026-06-05T14:16:29+02:00 
 
-![logo PSPOI](/pspoI.png "PSPO I, premier niveau de certification Professionnal Scrum Product Owner, https://www.scrum.org")
+![logo PSPOI](./pspoI.png "PSPO I, premier niveau de certification Professionnal Scrum Product Owner, https://www.scrum.org")
 
 > Hello, bienvenue sur mon CV.  
 > Mon but est de vous donner une idée du scope de mes compétences et intérêts.
@@ -17,7 +17,7 @@ _you can go to the english version [here](/en "english version")._
 &nbsp;  
 oct 2021 -> avr 2024 : **DEVELOPPEUR BACKEND CHEZ _BEDROCK STREAMING_**  
 &nbsp;  
-![logo bedrock](/bedrock.png "Bedrock Streaming, entreprise de développement logiciel créatrice de services de streaming clés en main.")
+![logo bedrock](./bedrock.png "Bedrock Streaming, entreprise de développement logiciel créatrice de services de streaming clés en main.")
 
 * implémentation/mise à jours d'adservers
 * maintenance projets (packages composer, version de php)
@@ -30,10 +30,9 @@ oct 2021 -> avr 2024 : **DEVELOPPEUR BACKEND CHEZ _BEDROCK STREAMING_**
 >* AdServers
 >* Ad Gateways
 
-_Méthodos :_ `agile (daily, sprint planning, retros)`
+_Méthodologies :_ `agile (daily, sprint planning, retros)`
 
-_Technos :_ `git`, `php8`, `phpunit` `behat`, `golang`, `docker`, `docker-compose`,  `composer`, `aws`, `noSql`,
-`symfony`, `github actions`, `kubernetes`,`terraform`, `linux`
+_Technologies :_ `git`, `php8`, `phpunit` `behat`, `golang`, `docker`, `docker-compose`,  `composer`, `aws`, `noSql`,`symfony`, `github actions`, `kubernetes`,`terraform`, `linux`
 
 _Exemple de réalisations :_
 * terraforming élément d'infra (dynamoDb, sqs)
@@ -46,7 +45,7 @@ _Exemple de réalisations :_
 &nbsp;  
 nov 2019 -> oct 2021 : **CONCEPTEUR DÉVELOPPEUR CHEZ _ORANGE_**  
 &nbsp;  
-![logo orange](/239px-Orange_logo.svg.png "Orange, société française de télécommunications")
+![logo orange](./239px-Orange_logo.svg.png "Orange, société française de télécommunications")
 
 * modernisation des process de déploiement
 * migrations php
@@ -60,8 +59,7 @@ nov 2019 -> oct 2021 : **CONCEPTEUR DÉVELOPPEUR CHEZ _ORANGE_**
 >* Portails web
 >* chantiers de rénovations d'application
 
-_Technos :_ `git`, `php5.3`, `php7.2`, `php7.3`, `docker`, `docker-compose`, `xml`, `MariaDB 10.3.13`, `HTML`, `CSS`, `JS`, `Bootstrap`, `JQuery`, `JQuery-UI`
-  `symfony 3`, `zend`, `oft (custom framework)`, `Jenkins`, `gitlab`, `gitlab ci/cd`, `terraform`, `cloudfoundry`, `amazon S3`, `supercronic`, `linux`
+_Technologiess :_ `git`, `php5.3`, `php7.2`, `php7.3`, `docker`, `docker-compose`, `xml`, `MariaDB 10.3.13`, `HTML`, `CSS`, `JS`, `Bootstrap`, `JQuery`, `JQuery-UI`,   `symfony 3`, `zend`, `oft (custom framework)`, `Jenkins`, `gitlab`, `gitlab ci/cd`, `terraform`, `cloudfoundry`, `amazon S3`, `supercronic`, `linux`
 
 _Exemple de réalisations :_
 * migration svn->git
@@ -76,7 +74,7 @@ _Exemple de réalisations :_
 &nbsp;  
 jul 2017 -> oct 2019 : **INGÉNIEUR RÉALISATEUR CHEZ _MISTER AUTO_**  
 &nbsp;  
-![logo mister-auto](/mister-auto.png "Mister Auto, entreprise française de commerce électronique spécialisée dans la vente de pièces détachées automobiles")
+![logo mister-auto](./mister-auto.png "Mister Auto, entreprise française de commerce électronique spécialisée dans la vente de pièces détachées automobiles")
 * assurer l'évolution de la partie legacy du site (cohabitation de 2 socles techniques)
 * développements front/back en php pour les sites web desktop et mobile
 * développement d'APIs (fournir des données au nouveau socle)
@@ -88,7 +86,7 @@ jul 2017 -> oct 2019 : **INGÉNIEUR RÉALISATEUR CHEZ _MISTER AUTO_**
 >* UX/UI
 >* agilité
 
-_Technos :_ `HTML`, `XML`, `CSS`, `JS`, `CodeIgniter`, `Varnish`, `JQuery`, `Mysql 5.2`, `git`, `Ubuntu`, `docker`, `bash`
+_Technologies :_ `HTML`, `XML`, `CSS`, `JS`, `CodeIgniter`, `Varnish`, `JQuery`, `Mysql 5.2`, `git`, `Ubuntu`, `docker`, `bash`
 
 _Exemple de réalisations :_
 * générateur de sitemaps paramétrables pour les 22 pays du pure player
@@ -106,7 +104,7 @@ _Exemple de réalisations :_
 &nbsp;  
 apr 2012 -> sep 2015 : **DÉVELOPPEUR SQL/SQR CHEZ AKANEA**  
 &nbsp;  
-![logo akanea](/akanea.png "Editeur de logiciels spécialisés pour la supply-chain")
+![logo akanea](./akanea.png "Editeur de logiciels spécialisés pour la supply-chain")
 * développement Oracle PL/SQL
 * développements sqr
 * analyse fonctionnelle et technique
@@ -117,7 +115,7 @@ apr 2012 -> sep 2015 : **DÉVELOPPEUR SQL/SQR CHEZ AKANEA**
 >* Progiciels Client/Serveur
 >* EDI
 
-_Technos_ : `sqr`, `Oracle` `PL/SQL`, `ORACLE FORMS`, `DOS`, `Windows Server`, `linux`, `ftp`
+_Technologies_ : `sqr`, `Oracle` `PL/SQL`, `ORACLE FORMS`, `DOS`, `Windows Server`, `linux`, `ftp`
 
 _Exemple de réalisations :_
 * mise à jour du code de génération EDI pour intégrer des nouveautés réglementaires de la norme
@@ -129,7 +127,7 @@ PARENTHESE PROFESSIONNELLE:
 &nbsp;  
 nov 2024 -> aujourd'hui : **RESPONSABLE COMMUNICATION EXTERNE _POTAGERS DU GARON_**  
 &nbsp;  
-![logo Potagers Du Garon](/Logo-PDG-detoures.png "Les Potagers du Garon, Atelier Chantier d'Insertion par le Maraîchage Biologique")
+![logo Potagers Du Garon](./Logo-PDG-detoures.png "Les Potagers du Garon, Atelier Chantier d'Insertion par le Maraîchage Biologique")
 
 * accueil et conseil (250 adhérents)
 * communication externe, mailing commercial hebdomadaire, publications sur les réseaux sociaux (meta), affichage, PLV, documentation
@@ -180,5 +178,5 @@ Et avant tout cela ? (ou pendant, et maintenant encore !) De nombreuses autres v
 * vélomane
 * ...
 
-![portrait Stan](/stan.png "moi")  
+![portrait Stan](./stan.png "moi")  
 
