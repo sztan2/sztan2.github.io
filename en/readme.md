@@ -1,21 +1,39 @@
 *_version française disponible [ici](../ "version française")._*
 
+<a name="top">:-)</a>
 
 ## Stanislas Paliard - [https://sztan2.github.io](https://sztan2.github.io)
-### UX Designer
 
-    Last updated: 2026-06-05T14:16:29+02:00 
+    Last updated: 2026-09-30T15:16:50+02:00 
 
 ![logo PSPOI](../pspoI.png "PSPO I, first level of Professional Scrum Product Owner certification, [https://www.scrum.org](https://www.scrum.org)")
 
-> Hello, welcome to my resume.  
-> My goal is to give you an idea of the scope of my skills and interests.
-> I am open to new opportunities, such as working on mobile application projects. I contribute to the product lifecycle, working closely with development teams, users, and the business.
-> More recently, I obtained the PSPO I certification and am preparing for PSPO II.
-> Enjoy the reading :-)
+> Welcome to my online resume.  
+> With a versatile background spanning customer service, sales, and software development, I am now looking to shift the direction of my career. I aim to work at a more strategic or high-level stage of application projects—engaging with the product lifecycle while collaborating closely with development teams, users, and business stakeholders.  
+> To this end, I have obtained the PSPO I certification and am currently preparing for the PSPO II.
+> Enjoy the read! :-)
 
 &nbsp;  
-oct 2021 -> apr 2024 : **BACKEND DEVELOPER AT _BEDROCK STREAMING_**  
+![emploi](../bullet.png)  sep 2026 -> today : **Teacher. Video Games creation for _Studio XP_ (freelance / part time)**  
+&nbsp;  
+![logo studioXP](./studioXP.png "Created by former Ubisoft Employees, fits to young people schedule.")
+
+* video game development course (online and face-to-face)
+
+>**Domaines :**
+>* No Code, Low Code
+
+_Méthodologies :_ `Freinet education`
+
+_Technologies :_ `Construct III`
+&nbsp;  
+
+&nbsp;
+![emploi](../bullet.png)  nov 2024 -> July 2026 : professional break at **Potagers du Garon** [see below](#potagersdugaron)  
+professionnal break in non-profit  
+
+&nbsp;  
+![emploi](../bullet.png)  oct 2021 -> apr 2024 : **BACKEND DEVELOPER AT _BEDROCK STREAMING_**  
 &nbsp;  
 ![logo bedrock](../bedrock.png "Bedrock Streaming, a software development company creating turnkey streaming services.")
 
@@ -44,7 +62,7 @@ _Examples of achievements:_
 * creation of Kubernetes synchronization jobs
 
 &nbsp;  
-nov 2019 -> oct 2021 : **APPLICATION DEVELOPER / DESIGNER AT _ORANGE_**  
+![emploi](../bullet.png)  nov 2019 -> oct 2021 : **APPLICATION DEVELOPER / DESIGNER AT _ORANGE_**  
 &nbsp;  
 ![logo orange](../239px-Orange_logo.svg.png "Orange, a French telecommunications company")
 
@@ -73,7 +91,7 @@ _Examples of achievements:_
 * administration of a PaaS application using Cloud Foundry
 
 &nbsp;  
-jul 2017 -> oct 2019 : **SOFTWARE ENGINEER AT _MISTER AUTO_**  
+![emploi](../bullet.png)  jul 2017 -> oct 2019 : **SOFTWARE ENGINEER AT _MISTER AUTO_**  
 &nbsp;  
 ![logo mister-auto](../mister-auto.png "Mister Auto, a French e-commerce company specializing in the sale of automotive spare parts")
 * ensuring the evolution of the site's legacy stack (coexistence of 2 technical stacks)
@@ -103,7 +121,7 @@ _Examples of achievements:_
 * development of scripts (bash, git, ssh...) to automate staging deployments
 
 &nbsp;  
-apr 2012 -> sep 2015 : **SQL/SQR DEVELOPER AT AKANEA**  
+![emploi](../bullet.png)  apr 2012 -> sep 2015 : **SQL/SQR DEVELOPER AT AKANEA**  
 &nbsp;  
 ![logo akanea](../akanea.png "Software publisher specializing in supply chain solutions")
 * Oracle PL/SQL development
@@ -124,7 +142,7 @@ _Examples of achievements:_
 * bug tracking and fixing
 
 &nbsp;  
-PROFESSIONAL CAREER PARENTHESIS:
+![emploi](../bullet.png)  <a name="potagersdugaron">PROFESSIONAL CAREER PARENTHESIS:</a>
 &nbsp;  
 nov 2024 -> present : **EXTERNAL COMMUNICATIONS MANAGER AT _POTAGERS DU GARON_**  
 &nbsp;  
@@ -162,6 +180,8 @@ _Examples of achievements:_
 * running market stalls
 
 ***
+[▲ back to top](#top)
+
 &nbsp;  
 And before all that? (Or alongside it, and still today!) Many other lives!...
 &nbsp;

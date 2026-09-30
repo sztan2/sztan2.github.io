@@ -1,21 +1,40 @@
 _you can go to the english version [here](./en "english version")._
 
+<a name="debut">:-)</a>
 
 ## Stanislas Paliard - [https://sztan2.github.io](https://sztan2.github.io)
-### UX Designer
 
-    Dernière actualisation: 2026-06-05T14:16:29+02:00 
+    Dernière actualisation: 2026-09-30T15:16:44+02:00 
 
 ![logo PSPOI](./pspoI.png "PSPO I, premier niveau de certification Professionnal Scrum Product Owner, https://www.scrum.org")
 
-> Hello, bienvenue sur mon CV.  
-> Mon but est de vous donner une idée du scope de mes compétences et intérêts.
-> Je suis ouvert à la nouveauté, comme travailler dans des projets d'applications mobiles. J'interviens dans le cycle de vie du produit, en lien avec les équipes de dev, les utilisateurs et le business.
-> Plus récemment, j'ai passé la certification  PSPO I et je prépare la PSPO II.
+> Bienvenue sur mon CV.  
+> Touche à tout, issu des domaines du service client, de la vente, puis du développement, je souhaite aujourdhui donner un tournant à ma carrière, plus en amont ou en méta des projets applicatifs, intervenir dans le cycle de vie du produit, en lien avec les équipes de dev, les utilisateurs et le business.
+> Pour celà, j'ai passé la certification  PSPO I et je prépare la PSPO II.
 > Bonne lecture :-)
 
 &nbsp;  
-oct 2021 -> avr 2024 : **DEVELOPPEUR BACKEND CHEZ _BEDROCK STREAMING_**  
+![emploi](./bullet.png)  sep 2026 -> aujourd'hui : **Enseignant en conception de jeux video pour _Studio XP_ (freelance / temps partiel)**  
+&nbsp;  
+![logo studioXP](./studioXP.png "créé par des anciens d’Ubisoft,
+une activité adaptée à l’emploi du temps des jeunes.")
+
+* cours de conception de jeux video à distance et en présentiel
+
+>**Domaines :**
+>* No Code, Low Code
+
+_Méthodologies :_ `Pédagogie Freinet`
+
+_Technologies :_ `Construct III`
+&nbsp;  
+
+&nbsp;  
+![emploi](./bullet.png)  nov 2024 -> Juil 2026 : **pause professionnelle** [voir en bas](#potagersdugaron)  
+pause professionnelle dans l'ESS
+
+&nbsp;  
+![emploi](./bullet.png)  oct 2021 -> avr 2024 : **DEVELOPPEUR BACKEND CHEZ _BEDROCK STREAMING_**  
 &nbsp;  
 ![logo bedrock](./bedrock.png "Bedrock Streaming, entreprise de développement logiciel créatrice de services de streaming clés en main.")
 
@@ -43,7 +62,7 @@ _Exemple de réalisations :_
 * création de jobs Kubernetes de synchronisations
 
 &nbsp;  
-nov 2019 -> oct 2021 : **CONCEPTEUR DÉVELOPPEUR CHEZ _ORANGE_**  
+![emploi](./bullet.png)  nov 2019 -> oct 2021 : **CONCEPTEUR DÉVELOPPEUR CHEZ _ORANGE_**  
 &nbsp;  
 ![logo orange](./239px-Orange_logo.svg.png "Orange, société française de télécommunications")
 
@@ -72,7 +91,7 @@ _Exemple de réalisations :_
 * administration d'une application en mode PaaS avec cloudfoundry
 
 &nbsp;  
-jul 2017 -> oct 2019 : **INGÉNIEUR RÉALISATEUR CHEZ _MISTER AUTO_**  
+![emploi](./bullet.png)  juil 2017 -> oct 2019 : **INGÉNIEUR RÉALISATEUR CHEZ _MISTER AUTO_**  
 &nbsp;  
 ![logo mister-auto](./mister-auto.png "Mister Auto, entreprise française de commerce électronique spécialisée dans la vente de pièces détachées automobiles")
 * assurer l'évolution de la partie legacy du site (cohabitation de 2 socles techniques)
@@ -102,7 +121,7 @@ _Exemple de réalisations :_
 * développement de scripts (bash, git, ssh...) pour automatiser les mises en recette
 
 &nbsp;  
-apr 2012 -> sep 2015 : **DÉVELOPPEUR SQL/SQR CHEZ AKANEA**  
+![emploi](./bullet.png)  avr 2012 -> sep 2015 : **DÉVELOPPEUR SQL/SQR CHEZ AKANEA**  
 &nbsp;  
 ![logo akanea](./akanea.png "Editeur de logiciels spécialisés pour la supply-chain")
 * développement Oracle PL/SQL
@@ -123,7 +142,7 @@ _Exemple de réalisations :_
 * tracking et correction de bugs
 
 &nbsp;  
-PARENTHESE PROFESSIONNELLE:
+<a name="potagersdugaron">PARENTHESE PROFESSIONNELLE:</a>
 &nbsp;  
 nov 2024 -> aujourd'hui : **RESPONSABLE COMMUNICATION EXTERNE _POTAGERS DU GARON_**  
 &nbsp;  
@@ -161,6 +180,8 @@ _Exemple de réalisations :_
 * tenue de marché
 
 ***
+[▲ revenir au début](#debut)
+
 &nbsp;  
 Et avant tout cela ? (ou pendant, et maintenant encore !) De nombreuses autres vies !...  
 &nbsp;
